@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Git creates the meta data for a new repository to enable version control.

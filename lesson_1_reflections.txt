@@ -1,0 +1,10 @@
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: It can be very useful to go back to a previous version of code, espcially when a bug is found in a newer version.
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A: Manually choosing when to create a commit allows for only saving meaninful changes that are not too small or too big. This requires some experience and good judgement, so can be prone to human variability.
+Q: How can you use the commands git log and git diff to view the history of files?
+A: git log shows a log of all commits, and git diff shows the difference in code between 2 commits.
+Q: How might using version control make you more confident to make changes that could break something?
+A: With version control, it's easy to go back to a previous version of the code.
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: FBSIM code development.
