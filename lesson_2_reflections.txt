@@ -2,3 +2,15 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 A: Git creates the meta data for a new repository to enable version control.
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Staging area allows for a 2 step commit process. User can modify files in staging area before making a commit.
+Can look at the diff between the file in staging area and repository or working directory.
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Every time there is a logical change to a file in staging area, make a commit.
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches are useful to experiment with new concepts and ideas that should be organized in a separate branch.
+Q: How do the diagrams help you visualize the branch structure?
+A: Easier to see where the branches split off from master, and commits that follow on master
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The code is combined so that changes introduced in each branch are combine in a single branch.
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: In many cases automatic merging will work fine without any manual intervention, this saves time. In cases where,
+manual intervention is required to resolve conflicts, Git identifies the code than needs to be resolved.
