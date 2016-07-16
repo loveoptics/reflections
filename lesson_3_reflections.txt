@@ -7,4 +7,6 @@ and not ready yet to receive the code in remote repository.
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Branch is used to experiment on a local repository to experiment on substantially new code/concepts;
 clone is used to copy a remote repository to your computer; fork is used to copy a repository on GitHub to
-your GitHub account.  
+your GitHub account.
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: To compare your recent commits using diff
